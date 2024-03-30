@@ -1,0 +1,4 @@
+https://journals.sagepub.com/doi/full/10.1177/14738716221081831
+In this week's research reflection, I found this paper that is innovative and interesting. This is a survey paper for data visualization literacy.
+Data visualization literacy is growing in importantce. Two facets of literacy are user understanding and the discovery of visual pattens with the help of graphical representations.
+This survery paper provides use useful guidance for our final project by examining and classifying prior research on visualization literacy that analyzes how well users understand noval data representations. Also, it provides an overview of visualization papers that examine/test/study users' visualization literacy skills and improve they literacy skills of understanding and creating advanced visual designs. It classifies the literacture by different types: in the wild, controlled user study, classroom-based, crowdsourced evaluation, literature review. 
