@@ -1,0 +1,5 @@
+For this week, I read a study by Benjamin Bach et. al., "Dashboard Design Patterns", published in 2020 10th International Conference on Cloud Computing, Data Science & Engineering (Confluence) (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9903550)
+
+This paper introduces design patterns for dashboards to inform dashboard design processes. Such guidance is necessary to inspire designs and discuss tradeoffs in, e.g., screenspace, interaction, or information shown. Based on a systematic review of 144 dashboards, the authors report on eight groups of design patterns that provide common solutions in dashboard design. They discuss combinations of these patterns in “dashboard genres” such as narrative, analytical , or embedded dashboard . They ran a 2-week dashboard design workshop with 23 participants of varying expertise working on their own data and dashboards. The paper discusses the application of patterns for the dashboard design processes, as well as general design tradeoffs and common challenges. 
+
+Their repository can be find here: https://dashboarddesignpatterns.github.io
